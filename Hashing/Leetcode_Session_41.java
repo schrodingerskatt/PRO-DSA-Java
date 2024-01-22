@@ -1,3 +1,6 @@
+// Problem :  Find the count. of subarray of shortest length whose sum==k
+// A = {10,5,2,7,1,9,8,7}   k = 15
+
 import java.util.*;
 public class Leetcode_Session_41 {
     public static void main(String[] args) {
